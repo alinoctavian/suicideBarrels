@@ -1,0 +1,3 @@
+class AHumanCharacter : ACharacter {
+    
+}
